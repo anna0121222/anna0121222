@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=YunMi_Seong&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <p align="center">
-  <a href="anna012188@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna012188@gmail.com)](mailto:anna012188@gmail.com)"/></a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna012188@gmail.com)](mailto:anna012188@gmail.com)"/></a>&nbsp
 <a href="https://www.notion.so/292ddd452753805480d8eca4ac7d0975?source=copy_link"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 
 <br>
