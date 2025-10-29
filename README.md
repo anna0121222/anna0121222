@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=YunMi_Seong&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:00c6ff&height=280&section=header&text=YunMi_Seong&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anna012188@gmail.com)](mailto:anna012188@gmail.com)"/>&nbsp
